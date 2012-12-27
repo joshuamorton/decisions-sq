@@ -1,7 +1,7 @@
-Decisions Decisions
+Decisions, Decisions
 =====
 
-Decision making framework, used to implement intelligent learning sytems.  This is a place to put learning/decision making libraries and algorithms, and as such is a work in progress.
+A project to hold algorithms, libraries, and supporting code for decision making and learning systems.  This is a work in progress.
 
 Currently implemented:
 
