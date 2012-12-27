@@ -25,7 +25,7 @@ public interface DecisionTree<C> {
     
     public void rebuild();
     
-    public C classify(Map<String, ?> attributes);
+    public C classify(Map<String, ?> attributes) throws UnknownClassificationException, AmbiguousClassificationException;
     
     public void save(OutputStream os);
     
